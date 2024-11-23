@@ -187,24 +187,41 @@
 
 ## Scintilating Medalion<a id="amulet-of-verility" />
 
-* **Max Threads**: NA
-* **Spell Defence**: 12
-* **Thread Ranks**: 0
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:-------:|
+|              | 16            | N/A         | N/A          | N/A   | N/A        | N/A     |
 
-* Enchanted item, has a spirit. Unused
-* THe spirit that is bound is one of the spirits that created the tome of banishment.
-* The person we fought Tyranisis was a nethermancer that worked with the windlings in his care to create the tome
-* The spirit didnt know what happened to Tyranisis until we broke him out
-* The kare was raided and the windlings gave up their lives to protest the kare.
-* The last windling alive locked himself within the chamber with the tome and enstilled his spirit within the amulet.
-* Provides protection against horrors for 1yr and 1day
-* His spirit will dissepate from the amulet after that point.
+* A small brass disc about an inch thick, the medallion is hollow 
+  and contains a physical manifestation of Skeethen's soul. When 
+  shaken, this physical object rattles inside it, Upon sealing himself 
+  and the Tome of Banishment within the Sanctuary, the dying Windling Mage 
+  placed his life force within the medallion in order to protect the Tome 
+  and its eventual rescuer from the powers of the Horror that had marked 
+  the would-be hero.
+  
+  When the would-be hero puts on the medallion(or Spirit Talks with Skeethen),
+  crackling purple lightning surrounds the character as Skeethen's dormant soul 
+  awakens. From the moment the eerie display ceases until a year and a day later,
+  the character can resist the following Horror powers:
+
+  Corrupt Karma, Karma Tap, Terror, and Thought Worm
+
+  When a Horror uses any of these powers against the wearer, the character adds 
+  +5 to his Spell/Mystic Defense or Social Defense, as appropriate.
+
+  The medallion offers similar protection against any spells intended to dominate 
+  the wearer's mind or control his actions.
+
+  After a year and a day, Skeethen's spirit escapes and the medallion becomes no 
+  more than a pretty piece of jewelry. The presence of Skeethen's life force within 
+  the medalion means that the wearer need not spend Legend Points or weave a thread 
+  to the medallion's true pattern in order to use it.
 
 ## Banesword "Screech"<a id="banesword-screech" />
 
-* **Max Threads**: 1
-* **Spell Defence**: 12
-* **Thread Ranks**: 1
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+|              | 12            | 1           | 1            | 0     | 0          | Journeyman |
 
 * **Rank 1** _(LP Cost 500)_
   * **Deed**: The character must slay a non-dragon name giver
@@ -214,10 +231,9 @@
 
 ## Healers Grand Tinkture<a id="healers-tinkture" />
 
-* **Max Threads**: 2
-* **Spell Defense**: 14
-* **Description**: Not Unique
-* **Thread Ranks**: 5
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+|              | 14            | 2           | 5            | 0     | 0          | Novice     |
 
 * **Rank 1** _(LP Cost 200)_
   * **Deed**: The owner must learn the flask's name
@@ -239,11 +255,9 @@
 
 ## Silver Studded Gauntlets<a id="silver-gauntlets" />
 
-* **Max Threads**: 2
-* **Spell Defence**: 14
-* **Thread Ranks**: 8
-* **Note**: Journeyman legond point cost
-* **Description**: Spiked Gauntlets
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+|              | 14            | 2           | 8            | 0     | 0          | Journeyman |
 
 * **Rank 1**: _(LP Cost 200)_
   * **Deed**: The wearer must learn the gauntlets name
@@ -253,25 +267,91 @@
   * **Effect**: the wearer adds +1 to Mystical defence
 
 
-## Blinding Stones
+## Blinding Stones<a id="blinding-stones" />
 
-* GET THIS FORM MARK IN EMAIL
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+| Morra - R2   | 9             | 1           | 4            | 4     | 2          | Novice     |
 
-## Storm Armor
+* **Rank 1**: _(LP Cost 200)_
+  * **Deed**: User must learn the name of the Wizard who made the stones.
+  * **Effect**: When the user throws a stone, everyone within a 5 yard 
+                radius must make a Perception (8) Test. If a character's
+                test fails, the stone blinds them, reducing step numbers
+                for all tests by -3 steps for the next 3 rounds. Any character
+                who anticipates the flash add +3 steps to their Perception test
+                to avoid the stone's effect.
 
-* GET THIS FROM MARK IN EMAIL
+* **Rank 2**: _(LP Cost 300)_
+  * **Effect**: As above, at an 8 yard radius.
 
-## The Box
+* **Rank 3**: _(LP Cost 400)_
+  * **Deed**: The user must learn the name of the mage who invented the stones
+              and taught others to make them.
+  * **Effect**: As above, at a 10 uard radius. The Difficulty of the Perception
+                Test to avoid the blinding effect is now 10.
 
-* GET THIS FROM MARK IN EMAIL
+* **Rank 4**: _(LP Cost 500)_
+  * **Deed**: The user must learn the name of the Windling hero who first used
+              the stones to delay a Horror while the rest of his clan escaped.
+  * **Effect**: As above, at a 15 yard radius.
+
+
+## Storm Armor<a id="storm-armor" />
+
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+| Curucil - R4 | 15            | 1           | 5            | 5     | 5          | Journeyman |
+
+* **Rank 1**: _(LP Cost 200)_
+  * **Deed**: The wearer must learn the armor's name.
+  * **Effect**: The armor weighs 30lbs and has a Physical Armor of 9.
+
+* **Rank 2**: _(LP Cost 300)_
+  * **Deed**: The wearer must learn where the armor comes from.
+  * **Effect**: The elemental air woven into the armor lightens its weight to 10lbs.
+
+* **Rank 3**: _(LP Cost 400)_
+  * **Deed**: The wearer must learn who made the armor.
+  * **Effect**: The cooling winds and rains woven into the armor enable the wearer 
+                to withstand intense heat. The Physical Armor rating gains +1 vs. 
+                Fire or Heat damange.
+
+* **Rank 4**: _(LP Cost 500)_
+  * **Deed**: The storm that Rasper-Nor trapped within the armor ravaged the 
+              countryside and tore apart several villages in the Delaris Mountains,
+              causing such severe winds and flooding that one trollmoot named the
+              storm, "the Rage". The wearer must learn this name.
+  * **Effect**: The armor weighs only 5lbs and its Physical Armor rating rises to 12.
+
+* **Rank 5**: _(LP Cost 800)_
+  * **Effect**: If the wearer takes damage during a storm, the suit grants him 2
+                additional recovery tests over the next 12 hours. This effect occurs
+                once per storm.
+
+
+## The Box with the Spider carving<a id="box-with-spider" />
+
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+|              | 12            | 1           | 7            | 1     | 0          | Warden     |
+
+* **Rank 1**:
+  * **Deed**: The character must learn the name of the box and learn the proper
+              method to attach a thread.
+  * **Effect**: The butter spider grants a free recovery test to any victim whose
+                injury it touches.This power can only be used once per day per person.
+                Also, if a character with a thread woven puts a fistful of lard in it,
+                a new spider forms if that character sacrifices a recovery test.
 
 ## Frost Pouch<a id="frost-pouch" />
 
-* **Max Threads**: ??
-* **Spell Defence**: 15
-* **Thread Ranks**: 6
-* **Description**: Commonly referred to as a "Frost pouch".  Small pouches
-                   that contain small stones and is cool to the touch.
+Commonly referred to as a "Frost pouch".  Small pouches that contain small stones
+and is cool to the touch.
+
+|Threads Woven | Spell Defense | Max Threads | Thread Ranks | Deeds | Researched | LP Cost    |
+|:-------------|:-------------:|:-----------:|:------------:|:-----:|:----------:|:----------:|
+|              | 15            | ??          | 6            | 0     | 0          | ??????     |
 
 * **Rank 1**: _(LP Cost 200)_
   * **Deed**: The owner must learn the pouches name
