@@ -1,7 +1,7 @@
 # A'Mon the Obsidiman Weaponsmith
 
 * **Discipline**: Weaponsmith
-* **Circle**: 3
+* **Circle**: 4
 * **Gender**: ----
 * **Race**: Obsidiman
 * **Hair**: Mossy
@@ -87,7 +87,7 @@
 | Novice     | Thread Weaving (Smithing)  | STA    |   0    |   PER     |  4   |  10  | 2d8         |
 | Novice     | Conversation               | SUS    |   0    |   CHA     |  4   |  10  | 2d8         |
 | Novice     | Suppress Curse             | STA    |   1    |   WIL     |  4   |  10  | 2d8         |
-| Novice     | 
+| Novice     | Wound Balance              |  Free  |   0    |   STR     |  1   |  9   | d8+d6       |
 | Journeyman |
 | Journeyman |
 | Journeyman | 
@@ -116,7 +116,6 @@
 | Novice     | Avoid Blow                 |       |  SIM   |    1   |    DEX    |  2   |  8   | 2d6         |
 | Novice     | Haggle                     |       |  SUS   |    0   |    CHA    |  2   |  8   | 2d6         |
 | Novice     | Fireblood                  |       |  STA   |    0   |    TOU    |  1   |  8   | 2d6         |
-| Novice     | Wound Balance              |       |  Free  |    0   |    STR    |  1   |  9   | d8+d6       |
 | Novice     | Danger Sense               |       |  Free  |    1   |    DEX    |  1   |  7   | d12         | 
 | Novice     |
 | Novice     |
