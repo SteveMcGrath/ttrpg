@@ -21,13 +21,13 @@
 | Charisma          |  13  |     |       | 6  | d10       |
 | Movement Rate     |   4  |     |       |    |           |
 | Carrying Capacity | 450  |     |       |    |           |
-| Karma Points      |   9  |     |    9  |    |           |
+| Karma Points      |  20  |     |   20  | 5  |           |
 | Initiative        |      |     |   -1  | 6  | d10       |
 
 ## Experience
 
-* **Total Legend Points**: 11300
-* **Current Legend Points**: 0
+* **Total Legend Points**: 11900
+* **Current Legend Points**: 500
 
 ## Racial Abilities
 
@@ -35,6 +35,15 @@
 * Natural Armor _(PA +3)_
 
 ## Defence Ratings
+
+
+
+| Weapon                       | DMG Step |  Size  | Times Forged |
+|:-----------------------------|:--------:|:------:|:------------:|
+| Troll Sword            (17)  | 10       |   4    | 2            |
+
+
+## Ranged Weapons
 
 * **Physical Defence**: 10
 * **Spell Defence**: 11
@@ -49,7 +58,7 @@
 
 ## Health
 
-* **Health Points**: 41
+* **Damage Points**: 0
 * **Blood Damage**: 2 _(Group True Pattern)_
 
 |                 | Base | Adj | Current | Threshold |
@@ -146,6 +155,12 @@
 | Charge                     |  FREE  |   0    |   STR     |  1   |  9   | d8+d6       |
 | Horror Lore                |  STA   |   0    |   PER     |  1   |  7   | d12         |
 
+## Knacks
+
+| Knack Name                 | Action | Strain | Attribute | Rank | Step | Action Dice |
+| :-------------------------:|:------:|:------:|:---------:|:----:|:----:|:-----------:|
+| Haggle :: Evaluate         |  STA   |   0    |   PER     |  1   |  7   | d12         |
+
 ## Items
 
 | Weight | Item                                                |
@@ -175,6 +190,19 @@
 |        | Shantaya Sextant
 |        | [Silver Studded Gauntlets](#silver-gauntlets)
 |        | Tomb of Banishment
+|        | 170s from selling items
+Adventurers kit
+2x booster potions
+brose sword
+hardened leather armor
+
+6 padded leather armor
+6 quivers w/ 115 arrows
+6 short bows
+6 short swords
+134s
+
+
 
 ## Currency
 
@@ -411,3 +439,7 @@ They told us that the other group of adepts, leaded by "Velos the Sheilding" lef
 days ago to head to the Midlands trading post on the way to Barter Town.
 
 -- End of session
+
+
+
+Sagora sent the Orcs to attack us in our sleep
