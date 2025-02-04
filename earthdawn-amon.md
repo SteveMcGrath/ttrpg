@@ -26,27 +26,22 @@
 
 ## Experience
 
-* **Total Legend Points**: 11900
-* **Current Legend Points**: 500
+* **Total Legend Points**: 16,400
+* **Current Legend Points**: 5,000
 
 ## Racial Abilities
 
 * Increased Wound Threshold _(+3)_
 * Natural Armor _(PA +3)_
 
+## Temporary Abilities
+
+* Combat Fury: +2 to close combat
+
 ## Defence Ratings
 
-
-
-| Weapon                       | DMG Step |  Size  | Times Forged |
-|:-----------------------------|:--------:|:------:|:------------:|
-| Troll Sword            (17)  | 10       |   4    | 2            |
-
-
-## Ranged Weapons
-
 * **Physical Defence**: 10
-* **Spell Defence**: 11
+* **Mystic Defence**: 11
 * **Social Defence**: 8
 
 ## Armor Ratings
@@ -58,7 +53,7 @@
 
 ## Health
 
-* **Damage Points**: 0
+* **Damage Points**: 4
 * **Blood Damage**: 2 _(Group True Pattern)_
 
 |                 | Base | Adj | Current | Threshold |
@@ -116,7 +111,7 @@
 |   1    | Can spend karma on any test to craft/repair
 |   2    | +1 to Mystic defense
 |   3    | Can spend karma on recovery tests
-|   4    | +1 to Phtsical Defence, Gain Wound Balance, Increase Death by 6, Unconcious by 5
+|   4    | +1 to Physical Defence, Gain Wound Balance, Increase Death by 6, Unconcious by 5
 
 ## Other Talents
 
