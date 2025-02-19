@@ -26,8 +26,8 @@
 
 ## Experience
 
-* **Total Legend Points**: 16,400
-* **Current Legend Points**: 5,000
+* **Total Legend Points**: 17,100
+* **Current Legend Points**: 5,700
 
 ## Racial Abilities
 
@@ -53,8 +53,9 @@
 
 ## Health
 
-* **Damage Points**: 4
+* **Damage Points**: 4 +4 Recovery for next 10min (well fed)
 * **Blood Damage**: 2 _(Group True Pattern)_
+
 
 |                 | Base | Adj | Current | Threshold |
 |----------------:|:----:|:---:|:-------:|:---------:|
@@ -153,7 +154,7 @@
 ## Knacks
 
 | Knack Name                 | Action | Strain | Attribute | Rank | Step | Action Dice |
-| :-------------------------:|:------:|:------:|:---------:|:----:|:----:|:-----------:|
+|:--------------------------:|:------:|:------:|:---------:|:----:|:----:|:-----------:|
 | Haggle :: Evaluate         |  STA   |   0    |   PER     |  1   |  7   | d12         |
 
 ## Items
