@@ -2,16 +2,16 @@
 
 * **Name**: Super Soakers
 * **Current Commander**:i Deidre Armiger
-* **Battle Rating**: 6.30
-* **War Chest**: 1172
-* **Up Keep**: 63
+* **Battle Rating**: 6.70
+* **War Chest**: 2131
+* **Up Keep**: 67
 
 
 ## Pilots
 
 ### Artur Slayton
 
-* **Experience Points**: **7**/7
+* **Experience Points**: **13**/13
 * **Assigned Mech**: Catapult CPLT-K2
 * **Gunnery Skill**: 4
 * **Piloting Skill**: 5
@@ -20,15 +20,16 @@
 ### Deidre Armiger
 
 * **Pilot Checks**: 2
-* **Experience Points**: **10**/10
+* **Experience Points**: **3**/13
 * **Assigned Mech**: Wolverine WVR-6M
-* **Gunnery Skill**: 4
+* **Gunnery Skill**: 3
 * **Piloting Skill**: 5
-* **Quirks**: NONE
+* **Quirks**:
+    * Sniper
 
 ### Armand Phillips
 
-* **Experience Points**: **4**/7
+* **Experience Points**: **8**/11
 * **Pilot Checks**: 1
 * **Assigned Mech**: Awesome AWS-8Q
 * **Gunnery Skill**: 4
@@ -38,7 +39,7 @@
 
 ### Fiona Greaves
 
-* **Experience Points**: **4**/7
+* **Experience Points**: **7**/10
 * **Pilot Checks**: 1
 * **Assigned Mech**: Locust LCT-1E
 * **Gunnery Skill**: 4

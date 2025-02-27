@@ -38,7 +38,7 @@ Note that unless specified, all of the counters are cumulative and are not reset
 | Each internal location of enemy mech destroyed             | 1            |
 | Each Fire Phase you cause internal damage to an enemy Mech | 1            |
 | Each enemy mech destroyed                                  | 2            |
-| Every 10th **successful** Pilot Skill Roll                 | 1            |
+| Every 5th **successful** Pilot Skill Roll                  | 1            |
 | Every **successful** Shutdown Roll                         | 1            |
 | No **internal** damage at end of scenario                  | 1            |
 | Every 2nd **successful** Close Combat attack               | 1            |
@@ -367,49 +367,9 @@ attempting to purchase, and a Player may only attempt to roll once for each item
 | Industrial Triple-Str Myomer | x            | -            | -       | -       |
 | Wrecking Ball                | x            | -            | 8       | -       |
 
-## Skills
+## Positive Quirks
 
-| Cost | Skill Type | Skill      |
-|:----:|:-----------|:-----------|
-|   1  |            | [Forward Observer](#fwdobserv)
-|   1  |            | [Lucky 1](#lucky1)
-|   1  |            | [Melee Specialist](#meleespec)
-|   1  |            | [Slugger](#slugger)
-|   1  |            | [Stand-Aside](#stand_aside)
-|   2  |            | [Blood Stalker](#bloodstalker)
-|   2  |            | [Cluster Hitter](#cluster_hitter)
-|   2  | Pilot      | [Demoralizer](#demoralizer)
-|   2  |            | [Eagle's Eyes](#eagle_eyes)
-|   2  |            | [Fist Fire](#fistfire)
-|   2  | Pilot      | [Hot Dog](#hotdog)
-|   2  |            | [Iron Will](#ironwill)
-|   2  |            | [Jumping Jack](#jumpingjack)
-|   2  |            | [Lucky 2](#lucky)
-|   2  |            | [Manuevering Ace](#man_ace)
-|   2  |            | [Marksman](#marksman)
-|   2  |            | [Melee Master](#meleemaster)
-|   2  |            | [Sandblaster (LB 20-X)](#sandblaster)
-|   2  |            | [Speed Demon](#speeddemon)
-|   2  |            | [Streetfighter](#streetfighter)
-|   3  |            | [Antagonizer](#antagonizer)
-|   3  |            | [Combat Intuition](#combatint)
-|   3  |            | [Float Like a Butterfly](#butterfly)
-|   3  | Pilot      | [Inspiring Commander](#inscom)
-|   3  |            | [Lucky 3](#lucky3)
-|   3  |            | [Multi-Tasker](#multitasker)
-|   3  |            | [Natural Grace](#natgrace)
-|   3  | Gunnery    | [Range Master (Long)](#rm_long)
-|   3  | Gunnery    | [Range Master (Medium)](#rm_med)
-|   3  | Gunnery    | [Range Master (Short)](#rm_short)
-|   3  |            | [Scrounger](#scrounger)
-|   3  |            | [Sniper](#sniper)
-|   3  |            | [Tactical Genius](#tacgenius)
-|   3  |            | [Terrain Master (Forest Ranger)](#tm_fr)
-|   3  |            | [Terrain Master (Mountaineer)](#tm_mntn)
-|   3  |            | [Weapons Specialist (Any Weapon Type)](#weaponspec_lrm)
-|   4  |            | [Starpshooter](#sharpshooter)
-
-### Antagonizer _Cost 3)_ <a name="antagonizer"></a>
+### Antagonizer _Cost 3)_
 
 Instead of a weapon attack, select one target in LOS and within 10 hexes.  Pilot's unit
 makes a **Piloting Skill Roll** with a **+4 modifier**.
@@ -421,12 +381,12 @@ makes a **Piloting Skill Roll** with a **+4 modifier**.
 
 * _**Failed**_: no effect.
 
-### Blood Stalker _(Cost 2)_ <a name="bloodstalker"></a>
+### Blood Stalker _(Cost 2)_
 
 **-1 To-Hit Modifier** against single enemy (+2 against all others) until enemy retreats
 or is disabled/destroyed.
 
-### Cluster Hitter _(Cost 2)_ <a name="cluster_hitter"></a>
+### Cluster Hitter _(Cost 2)_
 
 Each **Weapon Attack Phase**, choose one:
 
@@ -436,7 +396,7 @@ Each **Weapon Attack Phase**, choose one:
   The attacking unit may not have moved or fired other weapons and cannot make
   physical attacks if using this ability.
 
-### Combat Intuition _(Cost 3)_ <a name="combatint"></a>
+### Combat Intuition _(Cost 3)_
 
 Declare use during the **End Phase**; this pilot chooses to suffer 1 point of pilot
 damage (no Consciousness Roll).  Select an opposing unit.  After **Initiative** on
@@ -449,7 +409,7 @@ the following turn, choose one:
   attacks against the unit apply.
 * This unit moves after all other units and declares its fire last.
 
-### Demoralizer _(Cost 2)_ <a name="demoralizer"></a>
+### Demoralizer _(Cost 2)_
 
 Instead of a weapons attack, select 1 target in line os sight and within 10 hexes.
 The Pilot makes a **Piloting Skill Roll** with a +4 modifier.
@@ -459,46 +419,46 @@ The Pilot makes a **Piloting Skill Roll** with a +4 modifier.
   attacks against this unit.
 * **Failed**: No Effect
 
-### Dodge _(Cost 2)_ <a nam="dodge"></a>
+### Dodge _(Cost 2)_ 
 
 Make a **Piloting Skill Roll** when targeted during the Physical Attack Phase.
 Compare the Margin os Success to any incoming physical attacks.  Any successful
 attack with a lower Margin of Success misses.
 
-### Eagle's Eyes _(Cost 2)_ <a name="eagle_eyes"></a>
+### Eagle's Eyes _(Cost 2)_ 
 
 Function as a Beagle Active Probe with a range of 1 hix (or adds 1 hex to the range
 of any Active Probe, if present).  Add +2 target modifier for attacks from
 minefields, and boobytraps, and a -2 modifier for clearing minefields or traps if
 the Pilot's unit has the ability to do so.
 
-### Fist Fire _(Cost 2)_ <a name="fistfire"></a>
+### Fist Fire _(Cost 2)_ 
 
 Requires a functional arm, including hand actuator.  After a successful punch or
 physical weapon attack, the attacker fires one DFB or DFE weapon located in the
 same arm with **-1 To-Hit Modifier**.  If successful, the weapon damage is applied
 to the same location as the physical attack.
 
-### Float Like a Butterfly _(Cost 3)_ <a name="butterfly"></a>
+### Float Like a Butterfly _(Cost 3)_ 
 
 The Pilot fan force their opponent to re-roll either a combat or critical roll.
 Can be used 3 times per scenario.
 
-### Forward Observer _(Cost 1)_ <a name="fwdobs"></a>
+### Forward Observer _(Cost 1)_ 
 
 When spotting for an artillery unit, grant a -1 To-Hit Modifier to that unit's
 attack.  When adjusting fire, apply an additional -2 modifier unit shots land
 on-target.  May also make attacks during the Weapon Attack Phase while spotting
 without imposing To-Hit Modifier on the artillery attack.
 
-### Forward Observer _(Cost 1)_ <a name="fwdobserv"></a>
+### Forward Observer _(Cost 1)_ 
 
 When spotting for an artillery unit, grands a **-1 To-Hit Modifier** to that unit's
 attack.  When adjusting fire, apply an additional -2 modifier until unit shots land
 on-target.  May also make attacks during the **Weapon Attack Phase** while spotting
 without imposing a To-Hit Modifier on the artillery attack.
 
-### Hot Dog _(Cost 1)_ <a name="hotdog"></a>
+### Hot Dog _(Cost 1)_ 
 
 Apply -1 target modifiers for all rolls to avoid overheating effects.
 
@@ -506,73 +466,73 @@ Apply -1 target modifiers for all rolls to avoid overheating effects.
 
 Add a +1 modifier when rolling on the **Determining Critical Hits** table.
 
-### Inspiring Commander _(Cost 3)_ <a name="inscom"></a>
+### Inspiring Commander _(Cost 3)_ 
 
 The Pilot may grant the ability to re-roll a failed attack roll three times per
 scenario.  The second roll must be accepted.
 
-### Iron Will _(Cost 2)_ <a name="ironwill"></a>
+### Iron Will _(Cost 2)_
 
 Opponents using the _Animal Mimicry_, _Antagonizer_, or _Demoralizer_ SPAs against
 the Pilot receive a +2 target modifier for activate the ability.
 
-### Jumping Jack _(Cost 2)_ <a name="jumpingjack"></a>
+### Jumping Jack _(Cost 2)_ 
 
 Reduce **Attacker Movement Modifier** from +3 to +1 after jumping.
 
-### Lucky 1 _(Cost 2)_ <a name="lucky1"></a>
+### Lucky 1 _(Cost 1)_ 
 
 May re-roll a failed attack roll or **Piloting Skill Roll** 1 times per scenario.
 The second roll **must** be accepted.
 
-### Lucky 2 _(Cost 2)_ <a name="lucky2"></a>
+### Lucky 2 _(Cost 2)_ 
 
 May re-roll a failed attack roll or **Piloting Skill Roll** 2 times per scenario.
 The second roll **must** be accepted.
 
-### Lucky 3 _(Cost 2)_ <a name="lucky3"></a>
+### Lucky 3 _(Cost 3)_ 
 
 May re-roll a failed attack roll or **Piloting Skill Roll** 3 times per scenario.
 The second roll **must** be accepted.
 
-### Manuevering Ace _(Cost 2)_ <a name="man_ace"></a>
+### Manuevering Ace _(Cost 2)_ 
 
 May make **Lateral Shifts**.  Apply a -1 modifier to **Piloting Skill Rolls**
 to avoid skidding.
 
-### Marksman _(Cost 2)_ <a name="marksman"></a>
+### Marksman _(Cost 2)_ 
 
 May make a special **Aimed Shot** attack as if using a targeting computer; may
 only fire one weapon.  Or, apply an additional **-2 To-Hit Modifier** if making
 an **Aimed Shot** with a targeting computer.
 
-### Melee Master _(Cost 2)_ <a name="meleemaster"></a>
+### Melee Master _(Cost 2)_ 
 
 May attempt one extra punch, kick, or club attack per **Physical Attack** phase.
 
-### Melee Specialist _(Cost 1)_ <a name="meleespec"></a>
+### Melee Specialist _(Cost 1)_ 
 
 Apply a **-1 To-Hit Modifier** for physical attack rolls; add 1 point of damage
 to successful attacks.
 
-### Multi-Tasker _(Cost 2)_ <a name="multitasker"></a>
+### Multi-Tasker _(Cost 2)_ 
 
 May make an attack against a secondary target in the front arc at a
 **+0 To-Hit Modifier**, and in the side or rear arcs at a **+1 To-Hit Modifier**.
 
-### Natural Grace _(Cost 3)_ <a name="natgrace"></a>
+### Natural Grace _(Cost 3)_ 
 
 Reduce the cost of entering buildings or ultra-heavy terrain by 1 MP, apply a -1
 target modifier to **Piloting Skill Rolls** to avoid falling, damage from buildings
 or falls, or setting off mines; may torso twist 2 hexes instead of one; map "flip"
 a single arm regardless of which actuators are present.
 
-### Range Master (Long) _(Cost 3)_ <a name="rm_long"></a>
+### Range Master (Long) _(Cost 3)_ 
 
 Attacks at **Long Range** receive a **+0 To-Hit Modifier**, while attacks at
 **Short Range** receive a **+4 To-Hit Modifier**.
 
-### Sandblaster (LB-X, LRM) _(Cost 2)_ <a name="sandblaster"></a>
+### Sandblaster (LB-X, LRM) _(Cost 2)_ 
 
 When rolling on the **Cluster Hots Table** for a successful LB 20-X attack, add
 one of the following modifiers to the roll:
@@ -582,72 +542,72 @@ one of the following modifiers to the roll:
 * **Long Range**: +2
 * **Extreme Range**: +2
 
-### Scrounger _(Cost 3)_ <a name="scrounger"></a>
+### Scrounger _(Cost 3)_ 
 
 When buying, selling, or repairing equipment or Mechs, apply the following:
 
 * When buying or repairing equipment or Mechs, reduce the cost by 10%.
 * When selling equipment or Mechs, the selling price is increased by 10%.
 
-### Sharpshooter _(Cost 4)_ <a name="sharpshooter"></a>
+### Sharpshooter _(Cost 4)_ 
 
 If remaining stationary and not making physical attacks, may fire one weapon only
 as an **Aimed Shot**.  Successful attack grants extra potential critical hit, even
 if armor remains in the location.
 
-### Slugger _(Cost 2)_ <a name="slugger"></a>
+### Slugger _(Cost 2)_ 
 
 May improvise and use a club single-handed, allowing use of weapons in the torso
 and other arm as normal.
 
-### Sniper _(Cost 3)_ <a name="sniper"></a>
+### Sniper _(Cost 3)_ 
 
 Reduce range **To-Hit Modifiers** by half: **+1 for Medium**, **+2 for Long**,
 **+3 for Extreme**.
 
-### Speed Demon _(Cost 2)_ <a name="speeddemon"></a>
+### Speed Demon _(Cost 2)_ 
 
 Add 1 MP to Running and +2 MP to Sprinting movement, but may not make weapon or
 physical attacks that turn.
 
-### Stand-Aside _(Cost 1)_ <a name="stand_aside"></a>
+### Stand-Aside _(Cost 1)_ 
 
 May spend +1 MP to pass through a hex occupied by an enemy unit by making a
 **Piloting Skill Roll** with a +2 modifier.  Apply a +1 modifier for each weight
 class by which the enemy unit is heavier; -2 for each weight class by which the
 enemy unit is lighter.
 
-### Street Fighter _(Cost 2)_ <a name="streetfighter"></a>
+### Street Fighter _(Cost 2)_ 
 
 May conduct physical attacks during the **Weapon Attack Phase** instead of the
 **Physical Attack Phase**.
 
-### Tactical Genius _(Cost 3)_ <a name="tacgenius"></a>
+### Tactical Genius _(Cost 3)_ 
 
 Prior to play, select a commander for your force.  If the Pilot is your force
 commander, you may re-roll your initiative roll once each turn.  The second roll
 **must** be accepted, even if worse than the first.
 
-### Terrain Master (Forest Ranger) _(Cost 3)_ <a name="tm_fr"></a>
+### Terrain Master (Forest Ranger) _(Cost 3)_ 
 
 Pilot's unit receives -1 MP to all movement costs in woods or jungle hexes, and
 applies a -1 modifier to the **Piloting Skill Roll** for moving through jungle
 hexes.  If Pilot expended walking MP and is within woods or jungle hex, attacks
 against the Pilot receive a **+1 To-Hit** terrain modifier.
 
-### Terrain Master (Mountaineer) _(Cost 3)_ <a name="tm_mntn"></a>
+### Terrain Master (Mountaineer) _(Cost 3)_ 
 
 Subtract 1 MP from all movement costs when moving through gravel, rough/ultra-rough,
 or rubble/ultra-rubble hexes, and for any level charges (including sheer cliffs).
 Apply -1 to all **Piloting Skill Rolls** in such terrain.
 
-### Weapons Specialist (Single Weapon) _(Cost 3)_ <a name="weaponspec_lrm"></a>
+### Weapons Specialist (Single Weapon) _(Cost 3)_ 
 
 Apply a **-2 To-Hit Modifier** when attacking with any installed single weapon of the
 Pilot's choice.  The weapon specialization must be decided when initially taking this
 skill.
 
-### Zweihander _(Cost 2)_ <a name="zwei"></a>
+### Zweihander _(Cost 2)_ 
 
 May make a two-handed attack in front arc with melee weapons; all actuator damage
 modifiers for both arms apply.  A successful attack inflicts 1 extra point of damage
