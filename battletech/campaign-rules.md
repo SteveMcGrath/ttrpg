@@ -1,4 +1,9 @@
-# Battletech Campaign Play Logistics
+---
+title: Battletech Campaign Play Logistics
+---
+
+* Table of Contents
+{:toc}
 
 ## Starting Stats
 

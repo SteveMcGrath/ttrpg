@@ -1,0 +1,18 @@
+remote_theme: hydecorp/hydejack@v9.2.1
+title: "Tabletop RPG Stuff"
+description: "A random collection of tabletop RPG sheets and rules"
+
+site_author: "Steve McGrath"
+repo_url: "https://github.com/stevemcgrath/ttrpg"
+edit_on_github: true
+github_docs_folder: false
+sticky_navidation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
+
+menu:
+  - title: Battletech Rules
+    url: /ttrpg/battletech/campaign-rules.html
+  - title: Battletech Arena
+    url: /ttrpg/battletech/arena-rules.html
