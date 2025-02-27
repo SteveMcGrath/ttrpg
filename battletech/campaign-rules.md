@@ -378,8 +378,10 @@ attempting to purchase, and a Player may only attempt to roll once for each item
 |   1  |            | [Stand-Aside](#stand_aside)
 |   2  |            | [Blood Stalker](#bloodstalker)
 |   2  |            | [Cluster Hitter](#cluster_hitter)
+|   2  | Pilot      | [Demoralizer](#demoralizer)
 |   2  |            | [Eagle's Eyes](#eagle_eyes)
 |   2  |            | [Fist Fire](#fistfire)
+|   2  | Pilot      | [Hot Dog](#hotdog)
 |   2  |            | [Iron Will](#ironwill)
 |   2  |            | [Jumping Jack](#jumpingjack)
 |   2  |            | [Lucky 2](#lucky)
@@ -392,10 +394,13 @@ attempting to purchase, and a Player may only attempt to roll once for each item
 |   3  |            | [Antagonizer](#antagonizer)
 |   3  |            | [Combat Intuition](#combatint)
 |   3  |            | [Float Like a Butterfly](#butterfly)
+|   3  | Pilot      | [Inspiring Commander](#inscom)
 |   3  |            | [Lucky 3](#lucky3)
 |   3  |            | [Multi-Tasker](#multitasker)
 |   3  |            | [Natural Grace](#natgrace)
-|   3  |            | [Ranger Master (Long)](#rm_long)
+|   3  | Gunnery    | [Range Master (Long)](#rm_long)
+|   3  | Gunnery    | [Range Master (Medium)](#rm_med)
+|   3  | Gunnery    | [Range Master (Short)](#rm_short)
 |   3  |            | [Scrounger](#scrounger)
 |   3  |            | [Sniper](#sniper)
 |   3  |            | [Tactical Genius](#tacgenius)
@@ -403,7 +408,6 @@ attempting to purchase, and a Player may only attempt to roll once for each item
 |   3  |            | [Terrain Master (Mountaineer)](#tm_mntn)
 |   3  |            | [Weapons Specialist (Any Weapon Type)](#weaponspec_lrm)
 |   4  |            | [Starpshooter](#sharpshooter)
-
 
 ### Antagonizer _Cost 3)_ <a name="antagonizer"></a>
 
@@ -445,6 +449,22 @@ the following turn, choose one:
   attacks against the unit apply.
 * This unit moves after all other units and declares its fire last.
 
+### Demoralizer _(Cost 2)_ <a name="demoralizer"></a>
+
+Instead of a weapons attack, select 1 target in line os sight and within 10 hexes.
+The Pilot makes a **Piloting Skill Roll** with a +4 modifier.
+
+* **Success**: For the next turn, the target may only expend Walk/Cruise MP, cannot
+  move closer to this unit, and suffers an additional +1 **To Hit Modifier** on all
+  attacks against this unit.
+* **Failed**: No Effect
+
+### Dodge _(Cost 2)_ <a nam="dodge"></a>
+
+Make a **Piloting Skill Roll** when targeted during the Physical Attack Phase.
+Compare the Margin os Success to any incoming physical attacks.  Any successful
+attack with a lower Margin of Success misses.
+
 ### Eagle's Eyes _(Cost 2)_ <a name="eagle_eyes"></a>
 
 Function as a Beagle Active Probe with a range of 1 hix (or adds 1 hex to the range
@@ -464,12 +484,32 @@ to the same location as the physical attack.
 The Pilot fan force their opponent to re-roll either a combat or critical roll.
 Can be used 3 times per scenario.
 
+### Forward Observer _(Cost 1)_ <a name="fwdobs"></a>
+
+When spotting for an artillery unit, grant a -1 To-Hit Modifier to that unit's
+attack.  When adjusting fire, apply an additional -2 modifier unit shots land
+on-target.  May also make attacks during the Weapon Attack Phase while spotting
+without imposing To-Hit Modifier on the artillery attack.
+
 ### Forward Observer _(Cost 1)_ <a name="fwdobserv"></a>
 
 When spotting for an artillery unit, grands a **-1 To-Hit Modifier** to that unit's
 attack.  When adjusting fire, apply an additional -2 modifier until unit shots land
 on-target.  May also make attacks during the **Weapon Attack Phase** while spotting
 without imposing a To-Hit Modifier on the artillery attack.
+
+### Hot Dog _(Cost 1)_ <a name="hotdog"></a>
+
+Apply -1 target modifiers for all rolls to avoid overheating effects.
+
+### Human TRO _(Cost 1)_
+
+Add a +1 modifier when rolling on the **Determining Critical Hits** table.
+
+### Inspiring Commander _(Cost 3)_ <a name="inscom"></a>
+
+The Pilot may grant the ability to re-roll a failed attack roll three times per
+scenario.  The second roll must be accepted.
 
 ### Iron Will _(Cost 2)_ <a name="ironwill"></a>
 
@@ -515,7 +555,7 @@ May attempt one extra punch, kick, or club attack per **Physical Attack** phase.
 Apply a **-1 To-Hit Modifier** for physical attack rolls; add 1 point of damage
 to successful attacks.
 
-### Multi-Tasker _(Cost 3)_ <a name="multitasker"></a>
+### Multi-Tasker _(Cost 2)_ <a name="multitasker"></a>
 
 May make an attack against a secondary target in the front arc at a
 **+0 To-Hit Modifier**, and in the side or rear arcs at a **+1 To-Hit Modifier**.
@@ -532,7 +572,7 @@ a single arm regardless of which actuators are present.
 Attacks at **Long Range** receive a **+0 To-Hit Modifier**, while attacks at
 **Short Range** receive a **+4 To-Hit Modifier**.
 
-### Sandblaster (LB 20-X) _(Cost 2)_ <a name="sandblaster"></a>
+### Sandblaster (LB-X, LRM) _(Cost 2)_ <a name="sandblaster"></a>
 
 When rolling on the **Cluster Hots Table** for a successful LB 20-X attack, add
 one of the following modifiers to the roll:
@@ -607,3 +647,11 @@ Apply a **-2 To-Hit Modifier** when attacking with any installed single weapon o
 Pilot's choice.  The weapon specialization must be decided when initially taking this
 skill.
 
+### Zweihander _(Cost 2)_ <a name="zwei"></a>
+
+May make a two-handed attack in front arc with melee weapons; all actuator damage
+modifiers for both arms apply.  A successful attack inflicts 1 extra point of damage
+per 10 tons of attacking Mech's weight (2 for active TSM).  Attacker must make a
+critical hit check against the arm holding the melee weapon.  If the attack is
+unsuccessful, the attacker makes a **Piloting Skill Roll** as a missed kick to
+avoid fall.
