@@ -43,6 +43,7 @@ Note that unless specified, all of the counters are cumulative and are not reset
 | Each internal location of enemy mech destroyed             | 1            |
 | Each Fire Phase you cause internal damage to an enemy Mech | 1            |
 | Each enemy mech destroyed                                  | 2            |
+| Each enemy vehicle destroyed                               | 1            |
 | Every 5th **successful** Pilot Skill Roll                  | 1            |
 | Every **successful** Shutdown Roll                         | 1            |
 | No **internal** damage at end of scenario                  | 1            |
